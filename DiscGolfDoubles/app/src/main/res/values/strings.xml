@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DiscGolfDoubles</string>
+    <string name="title_activity_make_teams">MakeTeamsActivity</string>
+</resources>
